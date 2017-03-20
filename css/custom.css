@@ -1,0 +1,16 @@
+/*! Place your custom styles here */
+/*#map { position:absolute; top:0; bottom:0; width:50%; }*/
+
+.map { position:absolute; top:0; bottom:0; width:100%; }
+
+.sidebar {
+  width: 33.3333%;
+}
+
+.searchLink : hover{
+  color:black;
+}
+
+a:hover {
+  cursor:pointer !important;
+}
