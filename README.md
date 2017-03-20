@@ -8,14 +8,10 @@ Technology Used:
 -HTML, CSS, Javascript 
 
 Libraries:
-Jquery
--Mapbox
--Leaflet
--Boostrap
+Jquery, Mapbox, Leaflet, Boostrap
 
 Templates:
 Stack
 
 APIs:
-Foursquare
--Mapbox
+Foursquare, Mapbox
