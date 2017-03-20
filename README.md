@@ -8,14 +8,14 @@ Technology Used:
 -HTML, CSS, Javascript 
 
 Libraries:
--Jquery
+Jquery
 -Mapbox
 -Leaflet
 -Boostrap
 
 Templates:
--Stack
+Stack
 
 APIs:
--Foursquare
+Foursquare
 -Mapbox
